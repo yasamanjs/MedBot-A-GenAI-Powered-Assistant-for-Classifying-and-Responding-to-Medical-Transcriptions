@@ -3,4 +3,4 @@
 
 
 ## View Notebook (recommended)
-- NBViewer: https://nbviewer.org/github/<USER>/<REPO>/blob/main/capstone-project-medbot.ipynb
+- NBViewer: https://nbviewer.org/github/yasamanjs/MedBot-A-GenAI-Powered-Assistant-for-Classifying-and-Responding-to-Medical-Transcriptions/blob/main/capstone-project-medbot.ipynb
