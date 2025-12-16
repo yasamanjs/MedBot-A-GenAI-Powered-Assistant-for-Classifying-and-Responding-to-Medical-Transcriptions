@@ -3,7 +3,7 @@ Gen AI assistant to analyze **medical transcriptions and patient summaries**, us
 
 ## 📘 Project Overview
 
-This project demonstrates how **Generative AI techniques** can be combined to build a real-world assistant for healthcare support. The assistant, called **MedBot**, is designed to understand medical case descriptions, classify them into medical specialties, and offer relevant next steps—such as retrieving similar records or suggesting nearby providers.
+This project demonstrates how **Generative AI techniques** can be combined to build a real-world assistant for healthcare support. The assistant, called **MedBot**, is designed to understand medical case descriptions, classify them into medical specialties, and offer relevant next steps, such as retrieving similar records or suggesting nearby providers.
 
 The solution showcases both **model fine-tuning** and **tool-augmented conversation design** using **LangGraph** and **Gemini API**.
 
