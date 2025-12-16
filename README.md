@@ -1,4 +1,5 @@
 # 🏥 MedBot: GenAI Assistant for Medical NLP and Clinical Case Routing
+Gen AI assistant to analyze **medical transcriptions and patient summaries**, using **LangGraph**, enabling dynamic routing, stateful memory, and agentic control flow for **clinical decision support**.
 
 ## 📘 Project Overview
 
