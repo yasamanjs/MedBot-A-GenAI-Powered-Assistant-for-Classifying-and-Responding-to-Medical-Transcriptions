@@ -70,7 +70,7 @@ This project satisfies core capstone objectives:
 
 ---
 ---
-## Notebook
+# Notebook
 ---
 ---
 
