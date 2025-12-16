@@ -8,7 +8,7 @@ The solution showcases both **model fine-tuning** and **tool-augmented conversat
 
 ## Notebook
 - 📓 Main notebook: [`capstone-project-medbot.ipynb`](./capstone-project-medbot.ipynb)
-- 
+  
 ---
 
 ## 🎯 Objective
@@ -70,6 +70,7 @@ This project satisfies core capstone objectives:
 
 ---
 ---
+## Notebook
 ---
 ---
 
