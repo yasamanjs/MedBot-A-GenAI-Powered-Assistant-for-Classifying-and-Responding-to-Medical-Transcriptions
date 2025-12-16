@@ -1,12 +1,3 @@
-## Notebook
-- 📓 Main notebook: [`capstone-project-medbot.ipynb`](./capstone-project-medbot.ipynb)
-
-
-## View Notebook (recommended)
-- NBViewer: https://nbviewer.org/github/yasamanjs/MedBot-A-GenAI-Powered-Assistant-for-Classifying-and-Responding-to-Medical-Transcriptions/blob/main/capstone-project-medbot.ipynb
-
-
-
 # 🏥 MedBot: A GenAI-Powered Assistant for Classifying and Responding to Medical Transcriptions
 
 ## 📘 Project Overview
@@ -15,6 +6,9 @@ This project demonstrates how **Generative AI techniques** can be combined to bu
 
 The solution showcases both **model fine-tuning** and **tool-augmented conversation design** using **LangGraph** and **Gemini API**.
 
+## Notebook
+- 📓 Main notebook: [`capstone-project-medbot.ipynb`](./capstone-project-medbot.ipynb)
+- 
 ---
 
 ## 🎯 Objective
@@ -75,8 +69,9 @@ This project satisfies core capstone objectives:
 - ✅ Strong **domain-specific use case** in healthcare
 
 ---
-
-
+---
+---
+---
 
 ## 1. Load dependencies
 
