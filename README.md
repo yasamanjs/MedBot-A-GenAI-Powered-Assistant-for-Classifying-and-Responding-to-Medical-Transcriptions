@@ -1,4 +1,4 @@
-# 🏥 MedBot: A GenAI-Powered Assistant for Classifying and Responding to Medical Transcriptions
+# 🏥 MedBot: GenAI Assistant for Medical NLP and Clinical Case Routing
 
 ## 📘 Project Overview
 
