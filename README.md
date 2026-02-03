@@ -31,8 +31,8 @@ Build a domain-specific GenAI assistant that:
 | **Gemini API Fine-Tuning**     | Train a custom model on labeled medical transcriptions                 |
 | **Semantic Embedding Evaluation** | Evaluate predictions via similarity to reference examples           |
 | **LangGraph Tool Routing**     | Route between classifier, search, and user interaction nodes           |
-| **Tool-Augmented Reasoning**   | Dynamically trigger tools like `classify_transcription` or `find_local_provider` |
-| **Multi-Turn Chatbot with Memory** | Maintain and reason over evolving patient summaries               |
+| **Tool-Augmented Reasoning**   | (Not completed) Dynamically trigger tools like `classify_transcription` or `find_local_provider` |
+| **Multi-Turn Chatbot with Memory** | (Not completed) Maintain and reason over evolving patient summaries               |
 
 ---
 
@@ -54,8 +54,8 @@ Build a domain-specific GenAI assistant that:
 - **3.** Add human interaction and looping
 - **4.** Integrate classification tool (tuned/baseline)
 - **5.** Route classification responses and follow-up tools
-- **6.** Add simulated ground search for provider lookup
-- **7.** Plan retrieval tool for similar case search
+- **6.** Add simulated ground search for provider lookup (Not completed)
+- **7.** Plan retrieval tool for similar case search (Not completed)
 
 ---
 
