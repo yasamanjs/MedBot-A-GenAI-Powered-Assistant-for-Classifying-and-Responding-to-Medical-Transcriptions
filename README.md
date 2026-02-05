@@ -965,7 +965,9 @@ from IPython.display import Image, display
 Image(medbot_loop_graph.get_graph().draw_mermaid_png())
 ```
 
-<img width="241" height="333" alt="image" src="https://github.com/user-attachments/assets/a737240e-4810-4d5f-93eb-c3f640c4665f" />
+
+<img width="106" height="333" alt="image" src="https://github.com/user-attachments/assets/414e3e4e-4d77-4523-aca7-625713737dae" />
+
 
 
 **Run MedBot**
@@ -1258,9 +1260,6 @@ from IPython.display import Image, display
 
 Image(medbot_graph_manual_classifier.get_graph().draw_mermaid_png())
 ```
-
-
-<img width="106" height="333" alt="image" src="https://github.com/user-attachments/assets/414e3e4e-4d77-4523-aca7-625713737dae" />
 
 <img width="241" height="333" alt="image" src="https://github.com/user-attachments/assets/fc8f2d29-f850-4ca5-8bb3-76f40460ceda" />
 
