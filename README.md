@@ -415,10 +415,6 @@ plt.yticks(rotation=0)
 plt.tight_layout()
 plt.show()
 
-<img width="1093" height="790" alt="image" src="https://github.com/user-attachments/assets/8361835d-bcb5-4284-8e5c-0baaf5e3c1ba" />
-
-
-
 # --- Step 3: Precision / Recall / F1 based on semantic match ---
 # Binary classification (Match = Correct)
 precision = precision_score(df_baseline_eval["Match"], [True]*len(df_baseline_eval))
@@ -431,6 +427,7 @@ print(f"📊 F1 Score:  {f1:.2%}")
 
 ```
 
+<img width="1093" height="790" alt="image" src="https://github.com/user-attachments/assets/f72bb7e5-55ff-472b-8d4b-5dbbb4a67d2d" />
 
 
 
