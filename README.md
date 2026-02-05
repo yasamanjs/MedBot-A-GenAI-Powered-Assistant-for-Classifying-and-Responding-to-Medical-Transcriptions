@@ -9,7 +9,8 @@ The solution showcases both **model fine-tuning** and **tool-augmented conversat
 
 ## Notebook
 - 📓 Main notebook: [`capstone-project-medbot.ipynb`](./capstone-project-medbot.ipynb)
-- Kaggle Notebook : [https://www.kaggle.com/code/yasamansoofi/capstone-project-medbot] (Capstone Project: MedBot)
+- Kaggle Notebook : ['Capstone Project: MedBot'] (https://www.kaggle.com/code/yasamansoofi/capstone-project-medbot)
+- 
 ---
 
 ## 🎯 Objective
