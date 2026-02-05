@@ -880,6 +880,10 @@ from IPython.display import Image, display
 Image(med_graph.get_graph().draw_mermaid_png())
 ```
 
+<img width="106" height="134" alt="image" src="https://github.com/user-attachments/assets/792980c8-501f-40ac-a447-5888f83cea40" />
+
+
+
 ✅ You can now test a single-turn interaction with:
 
 
@@ -889,6 +893,10 @@ for msg in state["messages"]:
     print(f"{type(msg).__name__}: {msg.content}")
 
 ```
+
+<img width="241" height="333" alt="image" src="https://github.com/user-attachments/assets/a737240e-4810-4d5f-93eb-c3f640c4665f" />
+
+
 
 ## 4. Add Human Node and Interaction Loop
 
@@ -960,6 +968,9 @@ from IPython.display import Image, display
 Image(medbot_loop_graph.get_graph().draw_mermaid_png())
 ```
 
+<img width="106" height="333" alt="image" src="https://github.com/user-attachments/assets/414e3e4e-4d77-4523-aca7-625713737dae" />
+
+
 **Run MedBot**
 Now we can run MedBot in a loop. Type a description of a case, and MedBot will respond.
 
@@ -978,6 +989,8 @@ state = medbot_loop_graph.invoke({"messages": ['Hi']},
 ```python
 
 ```
+
+
 
 ## 6. Add a Classifier Tool Node
 
@@ -1248,6 +1261,9 @@ from IPython.display import Image, display
 
 Image(medbot_graph_manual_classifier.get_graph().draw_mermaid_png())
 ```
+
+<img width="241" height="333" alt="image" src="https://github.com/user-attachments/assets/fc8f2d29-f850-4ca5-8bb3-76f40460ceda" />
+
 
 ### 🧪 Sample Prompts for Testing the Chatbot
 **🟢 Nephrology-related:**
