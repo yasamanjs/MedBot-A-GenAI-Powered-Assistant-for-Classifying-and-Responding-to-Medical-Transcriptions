@@ -42,7 +42,7 @@ Build a domain-specific GenAI assistant that:
 
 - **1.** Load dependencies
 - **2.** Prepare and clean medical transcription dataset
-- **3.** Prompt-based zero-shot classification (baseline)
+- **3.** Prompt-engineered vs zero-shot classification (baseline)
 - **4.** Evaluate predictions using embeddings
 - **5.** Fine-tune Gemini model
 - **6.** Compare and validate performance
