@@ -1296,10 +1296,14 @@ state = medbot_graph_manual_classifier.invoke({"messages": ['Hi']},
 ```
 
 Example with urology case:
+
+
 <img width="801" height="575" alt="image" src="https://github.com/user-attachments/assets/70030868-1e08-4066-b820-641e43b70143" />
 
 
 Example with unrealted case:
+
+
 <img width="853" height="415" alt="image" src="https://github.com/user-attachments/assets/8c02f0bf-dd81-45cc-8149-4993a9954df9" />
 
 
