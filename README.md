@@ -57,6 +57,10 @@ Build a domain-specific GenAI assistant that:
 - **6.** Add simulated ground search for provider lookup (Not completed)
 - **7.** Plan retrieval tool for similar case search (Not completed)
 
+
+<img width="241" height="333" alt="image" src="https://github.com/user-attachments/assets/1b51656b-a1bf-432f-a3c3-046afc32495a" />
+
+
 ---
 
 ## ✅ Capstone Alignment
